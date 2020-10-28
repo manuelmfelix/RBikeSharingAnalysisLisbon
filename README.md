@@ -3,7 +3,7 @@ Analysis on Lisbon's Bike Sharing system "GIRAS" using R and Shiny
 
 Find the app's frontend here: https://manuelfelix.shinyapps.io/Giras_Analysis/
 
-# File Explanation:
+## File Explanation:
 
 # teste.csv
   Represents an instance in time of the information gathered through a week in 2020 (28.09 to 04.10)
