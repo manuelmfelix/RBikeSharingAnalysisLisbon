@@ -26,4 +26,4 @@ Find the app's frontend here: https://manuelfelix.shinyapps.io/Giras_Analysis/
 ### analiseGiras.csv
   There is a file missing that has the full information for each dock, updated every minute for a full week in 2020.
   It could not be uploaded due to upload size limitations.
-  This file is was created through the usage of the infoGiras.R and data_treatment.R files and the information gathered through the week mentioned above.
+  This file was created through the usage of the infoGirasExample.R and data_treatmentExample.R files and the information gathered through the week mentioned above.
